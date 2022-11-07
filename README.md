@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samesh, your friendly neighobourhood web3 dev :)
+- 👋 Hi, I’m Samesh, your friendly neighborhood web3 dev :)
 - 👀 I’m interested in shipping products that matter
 - 🌱 I’m currently learning smart contract dev
 - 📫 How to reach me, @samesh_l on twitter
